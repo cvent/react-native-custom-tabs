@@ -30,7 +30,7 @@
   "devDependencies": {
     "react-native": "0.42.3",
     "react": "15.4.2",
-    "babel-preset-react-native": "1.x.x",
+    "babel-preset-react-native": "1.9.2",
     "eslint": "3.x.x",
     "eslint-plugin-babel": "3.x.x",
     "eslint-plugin-react": "6.x.x",
