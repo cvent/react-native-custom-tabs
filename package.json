@@ -34,6 +34,6 @@
     "eslint": "3.x.x",
     "eslint-plugin-babel": "3.x.x",
     "eslint-plugin-react": "6.x.x",
-    "eslint-plugin-react-native": "2.x.x"
+    "eslint-plugin-react-native": "2.3.2"
   }
 }
