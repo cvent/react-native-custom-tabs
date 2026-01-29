@@ -33,7 +33,7 @@
     "babel-preset-react-native": "1.x.x",
     "eslint": "3.x.x",
     "eslint-plugin-babel": "3.x.x",
-    "eslint-plugin-react": "6.x.x",
+    "eslint-plugin-react": "6.10.3",
     "eslint-plugin-react-native": "2.x.x"
   }
 }
